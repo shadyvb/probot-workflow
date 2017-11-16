@@ -3,3 +3,7 @@ npm-debug.log
 .env*
 !.env.example
 *.pem
+.data
+index.build.js
+probot
+package-lock.json
